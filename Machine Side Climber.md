@@ -16,15 +16,7 @@ Complete the task below to gain access to the flag.
 
 **Area of Interest**
 
-Web Application
-
-Custom Applications
-
-Session Management and Hijacking
-
-Vulnerability Assessment
-
-Common Security Controls
+Web Application, Custom Applications, Session Management and Hijacking, Vulnerability Assessment, Common Security Controls
 
 **Technology**
 
@@ -42,7 +34,7 @@ PHP
 
 Session Puzzling
 
-QUESTION 1
+**QUESTION 1**
 
 What open source software is running on port 80? Provide the name without the version.
 
@@ -55,7 +47,7 @@ Our nmap scan reveals nginx 1.18.0 running on port 80.
 
 ![3.png](3.png)
 
-QUESTION 2
+**QUESTION 2**
 
 Which item costs $779.55?
 
@@ -66,7 +58,7 @@ Which item costs $779.55?
 
 ![5.png](5.png)
 
-QUESTION 3
+**QUESTION 3**
 
 Does the counter next to the top right icon increase when a new product is added to the cart from the current browser tab?
 
@@ -78,7 +70,7 @@ Does the counter next to the top right icon increase when a new product is added
 
 ![7.png](7.png)
 
-QUESTION 4
+**QUESTION 4**
 
 Does the counter next to the top right icon in the current tab increase when a new product is added to the cart from another tab?
 
@@ -86,7 +78,7 @@ Does the counter next to the top right icon in the current tab increase when a n
 
 ![8.png](8.png)
 
-QUESTION 5
+**QUESTION 5**
 
 After reaching checkout, is the total amount shown in the order summary affected by products added to the cart from a different tab?
 
@@ -99,7 +91,7 @@ After reaching checkout, is the total amount shown in the order summary affected
 
 ROOT FLAG
 
-Enter the root flag
+**Enter the root flag**
 
 ![13.png](13.png)
 
